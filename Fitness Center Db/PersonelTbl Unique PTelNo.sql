@@ -1,0 +1,2 @@
+ALTER TABLE PersonelTbl
+ADD CONSTRAINT UC_PTelefon UNIQUE(PTelefon);

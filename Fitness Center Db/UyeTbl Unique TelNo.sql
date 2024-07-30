@@ -1,0 +1,2 @@
+ALTER TABLE UyeTbl
+ADD CONSTRAINT UC_UTelefon UNIQUE(UTelefon);
